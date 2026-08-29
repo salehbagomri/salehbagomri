@@ -65,12 +65,14 @@ A lightweight, privacy-focused utility for initiating direct WhatsApp conversati
 
 ---
 
-## GitHub Performance & Activity
+## Engineering Overview
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=salehbagomri&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" alt="Saleh Bagomri GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salehbagomri&layout=compact&theme=tokyonight&hide_border=true" width="49%" alt="Top Languages" />
-</p>
+| Metric | Details |
+|---|---|
+| **Primary Focus** | Native Android Engineering (Kotlin, Jetpack Compose) & Flutter |
+| **Architecture** | MVVM, Clean Architecture, Reactive StateFlow/Coroutines, BLoC |
+| **Open Source** | Active Maintainer ([FajrLoop](https://github.com/salehbagomri/fajrloop), [QuickChat](https://github.com/salehbagomri/quickchat)) |
+| **GitHub Profile** | [@salehbagomri](https://github.com/salehbagomri) |
 
 ---
 
