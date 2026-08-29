@@ -51,17 +51,17 @@ Focus areas include:
 
 ## Featured Open-Source Projects
 
-### 1. QuickChat - Direct Messaging Utility
-A lightweight, privacy-focused utility for initiating direct WhatsApp conversations without saving numbers to device contacts.
+### 1. FajrLoop - Native Android Peer-to-Peer Accountability Alarm
+An innovative native Android application designed to ensure waking up for Fajr prayer through peer-to-peer accountability in a closed circular loop (Halqa).
+- **Repository:** [github.com/salehbagomri/fajrloop](https://github.com/salehbagomri/fajrloop)
+- **Tech Stack:** Kotlin, Android SDK, Full-Screen Intent Kiosk Mode, Firebase Realtime Database, Adhan Library, Accelerometer Sensors, Offline TOTP Protocol.
+- **Key Features:** Math / Shake / Typing wake-up challenges, automatic failover call triggers for unconfirmed partners, exact alarm scheduling, battery optimization bypass gatekeeper, and offline-first astronomical prayer calculations.
+
+### 2. QuickChat - Direct Messaging Utility
+A lightweight, privacy-focused utility for initiating direct WhatsApp conversations without saving phone numbers to device contacts.
 - **Repository:** [github.com/salehbagomri/quickchat](https://github.com/salehbagomri/quickchat)
 - **Tech Stack:** Flutter, Dart, BLoC Pattern, Hive, Material 3, Android App Links, QR Generation.
-- **Key Features:** Multi-country code picker (195+ countries), custom message templates, search history, home-screen widgets, and multi-language support (Arabic, English, Spanish, Turkish).
-
-### 2. Bagomri Portfolio & Technical Blog
-Official portfolio and software engineering publishing engine with zero framework overhead.
-- **Repository:** [github.com/salehbagomri/bagomri_portfolio](https://github.com/salehbagomri/bagomri_portfolio)
-- **Tech Stack:** Semantic HTML5, Vanilla ES6 JavaScript Modules, Direct Firestore REST Engine, In-App Lightbox Gallery, Cloudinary CDN, Automated Predeploy Sitemap Hook.
-- **Key Features:** 0ms instant cached rendering, slug-based routing, full bilingual RTL/LTR adaptation, and protected admin management dashboard.
+- **Key Features:** Multi-country code selector (195+ countries), custom categorized message templates, full search history, home-screen launcher shortcuts, and multi-language internationalization.
 
 ---
 
